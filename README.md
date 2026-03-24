@@ -164,16 +164,6 @@ RainSense successfully provides quantitative estimates of rooftop rainwater that
 2. Ministry of Jal Shakti, Government of India - Water Conservation Reports  
 3. India Meteorological Department - Rainfall Records and Analysis  
 
-***
-
-## 13. Contributors
-
-**Team RainSense [Shiva, Sijo Santhosh]**  
-Department of Computer Science & Engineering,
-Panimalar Engineering College,
-Poonamallee, Chennai - 123
-
-
 
 ***
 
